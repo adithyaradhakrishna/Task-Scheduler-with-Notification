@@ -4,6 +4,7 @@ A customizable **task scheduling and reminder application** built in Python. Use
 
 ---
 
+
 ## 📝 Description
 
 This tool helps users stay organized by allowing them to:
